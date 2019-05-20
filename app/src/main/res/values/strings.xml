@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculator Project</string>
+    <string name="Calculator">Calculator</string>
+    <string name="input1">Input value 1: </string>
+    <string name="input2">Input value 2: </string>
+    <string name="error1">Please select a value</string>
+    <string-array name="dropdown">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+    <string name="hitung">Calculate</string>
+    <string name="answer">Answer: </string>
+    <string name="etv1">Value 1...</string>
+    <string name="etv2">Value 2...</string>
+
+</resources>
